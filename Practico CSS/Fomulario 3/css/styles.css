@@ -1,0 +1,38 @@
+.boxcontact2
+{
+position: relative;
+margin: 0 auto;
+top: 10px;
+width: 100%;
+height: 55px;
+border: none;
+border-bottom: 1px solid #cccccc;
+background-color: #ffffff;
+font-size: 20px;
+font-family:Roboto;
+font-weight: 100;
+color: #0364AB;
+}
+
+.boton-formulario
+{
+position: relative;
+top: 20px;
+width:100%;
+margin: 0px;
+background-color: #D20229;
+padding: 15px 15px 15px 15px;
+border: solid 1px #ffffff;
+font-size: 16px;
+font-family:Roboto;
+font-weight:100;
+color:white;
+}
+
+.boton-formulario:hover
+{
+background-color: #004265;
+border: solid 1px #ffffff;
+color: #ffffff;
+cursor: pointer;
+}
