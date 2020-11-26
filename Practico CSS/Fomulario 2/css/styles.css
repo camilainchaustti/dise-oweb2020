@@ -1,0 +1,44 @@
+.contenedor form{
+	background-color: #FAE1EF; 	
+
+}
+ 
+.title{
+	margin:0 auto
+}
+
+.input-group{
+	color: #5B43FF;
+	background:white
+	
+}
+.form-register{
+	font-size: 30px;
+	margin-bottom: 20px;
+	
+}
+.wrap{
+
+	width: 500px;
+	height: 400px; 
+	background: #F2F0DA;
+	position: relative; 	
+	top: 180px;
+	left: 500px;
+	lign-items: center;
+	display: block;
+}
+
+#btn-submit{
+	padding: 10px;
+	float: left;
+    width: 95.8%;
+    background: #291EFF;
+    
+}
+
+
+
+
+
+
